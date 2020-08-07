@@ -1,0 +1,10 @@
+main: andreiwasfound.customshields.Main
+name: DEMOCustomShields
+version: 1.0
+author: AndreiWasFound
+api-version: 1.13
+
+commands:
+  getblazeshield:
+    description: Get Blaze Shield
+    permission: getblazeshield.use
